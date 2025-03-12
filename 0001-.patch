@@ -1,0 +1,50 @@
+From 7d6b9496a763e46423c09fe276bcfb5660281bd2 Mon Sep 17 00:00:00 2001
+From: yh-zhulijia <55302618@qq.com>
+Date: Wed, 12 Mar 2025 22:17:07 +0800
+Subject: [PATCH] =?UTF-8?q?=E5=95=8A?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ .gitignore | 27 +++++++++++++++++++++++++++
+ 1 file changed, 27 insertions(+)
+ create mode 100644 .gitignore
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..b3ea801
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,27 @@
++*.iml
++.gradle
++/local.properties
++/.idea/caches
++/.idea/libraries
++/.idea/modules.xml
++/.idea/workspace.xml
++/.idea/navEditor.xml
++/.idea/assetWizardSettings.xml
++/.idea/deploymentTargetDropDown.xml
++/.idea/git_toolbox_prj.xml
++/.idea/deploymentTargetSelector.xml
++/.idea/GrepConsole.xml
++/.idea/material_theme_project_new.xml
++/.idea/other.xml
++/.idea/git_toolbox_blame.xml
++/.idea/emulatorDisplays.xml
++.DS_Store
++/build
++/captures
++.externalNativeBuild
++.cxx
++local.properties
++key.properties
++keystore.jks
++.kotlin
++/release
+\ No newline at end of file
+-- 
+2.48.1.windows.1
+
