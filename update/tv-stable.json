@@ -2,7 +2,7 @@
     "tag_name": "v2.3.1",
     "assets": [
         {
-            "browser_download_url": "https://raw.githubusercontent.com/yh-zhulijia/zljtv/refs/heads/main/update/app/zlj-iptv-2.3.1.apk"
+            "browser_download_url": "https://gh-proxy.com/raw.githubusercontent.com/yh-zhulijia/zljtv/refs/heads/main/update/app/zlj-iptv-2.3.1.apk"
         }
     ],
     "body": "### ### 修复\r\n 修复助力家直播源"
